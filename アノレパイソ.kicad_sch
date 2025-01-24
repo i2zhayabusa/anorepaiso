@@ -3456,7 +3456,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 313.69 152.4 0)
 			(effects
 				(font
@@ -3530,7 +3530,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 248.92 66.04 0)
 			(effects
 				(font
@@ -3817,7 +3817,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 212.09 152.4 0)
 			(effects
 				(font
@@ -3891,7 +3891,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 34.29 152.4 0)
 			(effects
 				(font
@@ -3967,7 +3967,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC12E-Switch_Vertical_H20mm"
 			(at 143.764 34.29 0)
 			(effects
 				(font
@@ -4044,7 +4044,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 237.49 152.4 0)
 			(effects
 				(font
@@ -4273,7 +4273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 262.89 152.4 0)
 			(effects
 				(font
@@ -4347,7 +4347,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 172.72 66.04 0)
 			(effects
 				(font
@@ -4727,7 +4727,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 186.69 152.4 0)
 			(effects
 				(font
@@ -4889,7 +4889,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 288.29 152.4 0)
 			(effects
 				(font
@@ -4963,7 +4963,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 135.89 152.4 0)
 			(effects
 				(font
@@ -5363,7 +5363,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 48.26 77.47 0)
 			(effects
 				(font
@@ -5429,7 +5429,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 210.82 66.04 0)
 			(effects
 				(font
@@ -5495,7 +5495,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 110.49 152.4 0)
 			(effects
 				(font
@@ -5568,7 +5568,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 172.72 82.55 0)
 			(effects
 				(font
@@ -5634,7 +5634,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 248.92 85.09 0)
 			(effects
 				(font
@@ -5700,7 +5700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 85.09 152.4 0)
 			(effects
 				(font
@@ -5774,7 +5774,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 59.69 152.4 0)
 			(effects
 				(font
@@ -5848,7 +5848,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 210.82 83.82 0)
 			(effects
 				(font
@@ -5914,7 +5914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd:YS-SK6812MINI-E"
+		(property "Footprint" "LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm"
 			(at 161.29 152.4 0)
 			(effects
 				(font
