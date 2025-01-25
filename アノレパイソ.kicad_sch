@@ -5251,7 +5251,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "SO1602AWWB-UC-WB-U"
 			(at 105.41 54.61 0)
 			(effects
 				(font
@@ -5259,7 +5259,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "AKI-SO1602AWGB:SO1602AWWB-UC-WB-U"
 			(at 109.22 71.12 0)
 			(effects
 				(font
