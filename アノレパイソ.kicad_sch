@@ -5387,7 +5387,7 @@
 				)
 			)
 		)
-		(property "Footprint" "kbd-main:keyswitch_cherrymx_hotswap_1u"
+		(property "Footprint" "kbd-main:ResetSW"
 			(at 106.68 110.236 0)
 			(effects
 				(font
